@@ -71,3 +71,7 @@ deploy:
   type: git
   repository: git@github.com:neoimale/neoimale.github.io.git
   branch: master
+admin:
+  username: neoimale
+  password_hash: 31a36e4b7e35790b4fc4a17aa5e6a124
+  secret: iloveu
